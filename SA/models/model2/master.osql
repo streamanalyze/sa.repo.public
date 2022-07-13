@@ -7,4 +7,4 @@
  *
  ****************************************************************************/
 create function model2() -> Charstring
-  as "model2 version 1";
+  as "model2 version 2";
