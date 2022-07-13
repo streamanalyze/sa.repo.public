@@ -1,0 +1,10 @@
+/*-*-sql-*-*******************************************************************
+ * sa.engine
+ *
+ * Author: <year> <author>, <company>
+ *
+ * Description: Master file for user model
+ *
+ ****************************************************************************/
+create function model1() -> Charstring
+  as "model1 version 1";
